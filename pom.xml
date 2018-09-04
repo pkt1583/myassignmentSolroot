@@ -5,7 +5,7 @@
     <artifactId>root</artifactId>
     <groupId>myassignment</groupId>
     <packaging>pom</packaging>
-    <version>2.4-SNAPSHOT</version>
+    <version>2.4</version>
 
     <name>root</name>
     <url>http://maven.apache.org</url>
